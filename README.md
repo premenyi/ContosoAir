@@ -1,5 +1,4 @@
-
-
+[![Build Status](https://dev.azure.com/peterremenyi/devopstest/_apis/build/status/premenyi.ContosoAir?branchName=master)](https://dev.azure.com/peterremenyi/devopstest/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
