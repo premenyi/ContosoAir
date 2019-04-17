@@ -7,7 +7,7 @@ class AirportsService {
         this._airports = airports;
     }
 
-    getAll(){
+    getAll(){ 
         return this._airports.filter(a => a.code).map(avoidEmptyCity);
     }
 
